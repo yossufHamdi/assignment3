@@ -28,6 +28,18 @@
                         <a class="nav-link  text-warning" href="task2.php">task2</a>
                     </li>
                     <li class="nav-item px-2">
+                        <a class="nav-link  text-warning" href="task3.php">task3</a>
+                    </li>
+                    <li class="nav-item px-2">
+                        <a class="nav-link  text-warning" href="task4.php">task4</a>
+                    </li>
+                    <li class="nav-item px-2">
+                        <a class="nav-link  text-warning" href="task5.php">task5</a>
+                    </li>
+                    <li class="nav-item px-2">
+                        <a class="nav-link  text-warning" href="task6.php">task6</a>
+                    </li>
+                    <li class="nav-item px-2">
                         <a class="nav-link  text-warning" href="login.php">login</a>
                     </li>
 
