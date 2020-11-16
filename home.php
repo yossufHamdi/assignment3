@@ -40,6 +40,18 @@
                         <a class="nav-link  text-warning" href="task6.php">task6</a>
                     </li>
                     <li class="nav-item px-2">
+                        <a class="nav-link  text-warning" href="task7.php">task7</a>
+                    </li>
+                    <li class="nav-item px-2">
+                        <a class="nav-link  text-warning" href="task8.php">task8</a>
+                    </li>
+                    <li class="nav-item px-2">
+                        <a class="nav-link  text-warning" href="task9.php">task9</a>
+                    </li>
+                    <li class="nav-item px-2">
+                        <a class="nav-link  text-warning" href="task10.php">task10</a>
+                    </li>
+                    <li class="nav-item px-2">
                         <a class="nav-link  text-warning" href="login.php">login</a>
                     </li>
 
